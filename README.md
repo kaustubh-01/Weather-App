@@ -37,7 +37,7 @@ To get started with the Weather App, follow these steps:
 
 ## Usage
 
-After starting the development server, open your web browser and go to \`http://localhost:3000\`. Enter the name of a city in the search bar to get the current weather information for that location.
+After starting the development server, open your web browser and go to the address shown in the terminal (usually http://localhost:3000). Enter the name of a city in the search bar to get the current weather information for that location.
 
 ### User Interface
 
