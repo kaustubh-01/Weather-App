@@ -77,9 +77,6 @@ Contributions are welcome! To contribute to the project, follow these steps:
 6. **Create a new Pull Request:**
    Go to the original repository on GitHub and click the "New Pull Request" button.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Authors and Acknowledgments
 
