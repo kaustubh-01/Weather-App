@@ -50,7 +50,7 @@ The user interface of the Weather App includes the following elements:
 - **Humidity:** Shows the current humidity level.
 - **Wind Speed:** Displays the current wind speed.
 
-![Weather App UI](./src/assets/weather-app-ui.png)
+![Weather App UI](./src/assets/weather-app.png)
 
 ## Contributing
 
